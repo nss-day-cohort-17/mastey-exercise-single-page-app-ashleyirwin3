@@ -1,0 +1,24 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+    }
+    {
+      "make": "Mazda",
+      "model": "Mazda3",
+      "year": "2008",
+      "price": "priceless",
+      "description": "This is the best car in the entire world."
+    }
+    {
+      "make": "Tesla",
+      "model": "Robot car",
+      "year": "2375",
+      "description": "This car is too smart."
+    }
+  ]
+}
